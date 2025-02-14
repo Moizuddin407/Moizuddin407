@@ -1,6 +1,6 @@
 # Hey, I'm Moiz Uddin! 👋
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7F7F7&vCenter=true&multiline=true&width=450&height=50&lines=Full+Stack+Developer+|+AI+%26+ML+Enthusiast+%F0%9F%9A%80" alt="Full Stack Developer Animation" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7F7F7&vCenter=true&multiline=true&width=450&height=50&lines=Full+Stack+Developer+|+Devops+Enthusiast+%F0%9F%9A%80" alt="Full Stack Developer Animation" />
 
 ---
 
