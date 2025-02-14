@@ -54,7 +54,7 @@ Let's connect and collaborate! 😊
 ---
 
 ### ⚡ Tech Stack:
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,flutter,java,python,php,docker,kubernetes,mongodb,mysql,postgres,git,github,vercel,aws,gcp,linux&animation=fade-in)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,python,docker,kubernetes,mongodb,mysql,postgres,git,github,vercel,aws,linux&animation=fade-in)
 
 ---
 
