@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name]! 👋
+# Hey, I'm Moiz Uddin! 👋
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7F7F7&vCenter=true&multiline=true&width=450&height=50&lines=Full+Stack+Developer+|+AI+%26+ML+Enthusiast+%F0%9F%9A%80" alt="Full Stack Developer Animation" />
 
@@ -18,14 +18,14 @@ Let's connect and collaborate! 😊
 ### 📖 Basic Info:
 ```json
 {
-  "name": "[Your Name]",
+  "name": "Moiz Uddin",
   "role": "Software Engineer",
   "specialization": ["Software Engineering", "Web Development", "Mobile Development"],
   "skills": {
-    "frontend": ["HTML", "CSS", "JavaScript", "React", "Next.js", "Flutter"],
-    "backend": ["Node.js", "Express.js", "NestJS"],
-    "databases": ["MongoDB", "MySQL", "Firebase"],
-    "other": ["TypeScript", "Socket.io", "Git", "Vercel", "Linux"]
+    "frontend": ["HTML", "CSS", "JavaScript", "React", "Next.js"],
+    "backend": ["Node.js", "Express.js"],
+    "databases": ["MongoDB", "MySQL"],
+    "other": ["Socket.io", "Git", "Vercel", "Linux"]
   },
   "hobbies": ["Coding", "Gaming", "Reading Books"],
   "location": "Pakistan"
@@ -48,14 +48,13 @@ Let's connect and collaborate! 😊
 ---
 
 ### 🌎 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=fade-in)](https://linkedin.com/in/your-profile)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&animation=pulse)](https://instagram.com/your-profile)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&animation=wave)](https://discord.com/invite/your-invite)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=fade-in)](https://www.linkedin.com/in/moiz407/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&animation=pulse)](https://www.instagram.com/moizzz407/)  
 
 ---
 
 ### ⚡ Tech Stack:
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,python,php,docker,kubernetes,mongodb,mysql,git,github,vercel,linux&animation=fade-in)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,flutter,java,python,php,docker,kubernetes,mongodb,mysql,postgres,git,github,vercel,aws,gcp,linux&animation=fade-in)
 
 ---
 
@@ -69,4 +68,4 @@ Let's connect and collaborate! 😊
 ---
 
 ### 🔥 Visitor Count:
-![Visitor Count](https://komarev.com/ghpvc/?username=Moizuddin407&style=flat-square&color=green)
+![Visitor Count](https://profile-counter.glitch.me/Moizuddin407/count.svg)
