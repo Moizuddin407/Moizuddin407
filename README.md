@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me:
 
-- 🚀 Software Engineer passionate about **Web & Mobile development**.
+- 🚀 Software Engineer passionate about **Web App development**.
 - 🛠️ Building **scalable, user-friendly applications**.
 - 📚 Always learning new technologies and tools.
 - 🧩 Love solving complex problems across the **full stack**.
